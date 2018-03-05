@@ -149,3 +149,9 @@ input[type="submit"] {
 .footer-bottom li:last-child::after{
     display: none;
 }
+
+.footer-icon a {
+    font-size: 22px;
+    padding: 10px;
+    padding-left: 0;
+}
